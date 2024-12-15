@@ -1,0 +1,2 @@
+20241213	13:18:37	f43d6108-c498-4ad2-bede-dd64f948d983	Error:Not allowed by CORS
+20241213	13:18:37	cd4a8c67-508c-45cc-8e0f-cb43b899ed2b	Error:Not allowed by CORS
